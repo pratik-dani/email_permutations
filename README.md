@@ -28,4 +28,4 @@ permuted_emails = email_permutations.email_permuter(first_name=first_name,
 
 ## Contributions
 
-I you find any bugs, please feel free to open an issue or send a pull request.
+If you find any bugs, please feel free to open an issue or send a pull request.
