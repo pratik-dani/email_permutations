@@ -13,7 +13,7 @@ You can install **permutations** library via pip:
 
 ```python
 
-from permutations import email_permutations
+from permutations import email_permuter
 
 # Specify the first name, last name and domain name
 first_name = "Pratik"
