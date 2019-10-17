@@ -7,7 +7,7 @@ and last name.
 
 You can install **permutations** library via pip:
 
-    $ pip install permutations
+    $ pip install email-permutations
 
 ## Example Usage
 
