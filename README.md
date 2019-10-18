@@ -20,7 +20,7 @@ first_name = "Pratik"
 last_name = "Dani"
 domain_name = "gmail.com"
 
-permuted_emails = email_permutations.email_permuter(first_name=first_name,
+permuted_emails = email_permuter.all_email_permuter(first_name=first_name,
 	last_name=last_name,
 	domain_name=domain_name
 	)
