@@ -1,5 +1,5 @@
-[<img align="right" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" width="217px" height="51x">](https://www.buymeacoffee.com/pratikdani)
 # Emails Permutations and Combinations from first name and last name
+[<img align="right" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" width="217px" height="51x">](https://www.buymeacoffee.com/pratikdani)
 
 Email `permutations` provides a list of all possible combinations of email for a given first name
 and last name.
